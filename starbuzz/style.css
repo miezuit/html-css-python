@@ -1,6 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Roboto:wght@100;400;700&display=swap');
+html {
+    scroll-behavior: smooth;
+}
 h1 {
     color: forestgreen;
+    font-weight: lighter;
+    font-size: 2em;
 }
 body {
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+a {
+    color: crimson;
+    text-decoration-line: none;
+    text-decoration-color: tomato;
+}
+a:visited {
+    color: tomato;
+}
+a:hover {
+    background-color: lightskyblue;
+    text-decoration-line: underline;
 }
