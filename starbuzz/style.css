@@ -6,9 +6,11 @@ h1 {
     color: forestgreen;
     font-weight: lighter;
     font-size: 2em;
+    display: inline;
 }
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: #eeeeee;
 }
 a {
     color: crimson;
