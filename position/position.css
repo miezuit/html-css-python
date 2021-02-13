@@ -6,6 +6,8 @@ div {
     width: 7em;
     border-radius: 1em;
     background-color: silver;
+    text-align: center;
+    line-height: 7em;
 }
 #relative {
     background-color: tomato;
